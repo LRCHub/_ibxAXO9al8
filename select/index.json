@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君の全てをもう全部壊してしまいたかった",
+  "base_artist": "つきみ",
+  "createdAt": "2026-02-23T15:54:59.419307Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の全てをもう全部壊してしまいたかった",
+      "artist": "つきみ",
+      "has_synced": false,
+      "path": "select/pl_01_君の全てをもう全部壊してしまいたかった_つきみ.txt"
+    }
+  ]
+}
